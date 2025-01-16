@@ -26,7 +26,7 @@ p, ul {
     font-size: 19px;
 }
 
-ul > li > a {
+.link-list {
     font-family: "Trebuchet MS", sans-serif;
     color: #D95D39;
 }
